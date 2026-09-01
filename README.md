@@ -13,7 +13,3 @@
 
 
 ## https://www.gjennestadvgs.no dette er linken til gjennestad
-
-- [ ] Checkbox 1
-- [x] Checkbox 2
-- [ ] Checkbox 3
