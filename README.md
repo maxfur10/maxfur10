@@ -9,7 +9,11 @@
 
 ### jeg valgte IM siden det har mye min intirese for programmering, plus det var det eneste tiljengelig for meg
 
-### Jeh håper jge lærer mye nytt om Programmering og andre pc relaterte ting
+### Jeg håper jeg lærer mye nytt om Programmering og andre pc relaterte ting
 
 
 ## https://www.gjennestadvgs.no dette er linken til gjennestad
+
+- [ ] Checkbox 1
+- [x] Checkbox 2
+- [ ] Checkbox 3
