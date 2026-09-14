@@ -1,16 +1,15 @@
-## Hi there 👋
+# Max
 
-<!--
-**maxfur10/maxfur10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Hei verden
 
-Here are some ideas to get you started:
+### Jeg heter Max jeg er ganske intrisert i programmering å andre pc relaterte ting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### mine intireser er å spille på pc-en min, snake med venner å se på film 
+
+### jeg valgte IM siden det har mye min intirese for programmering, plus det var det eneste tiljengelig for meg
+
+### Jeg håper jeg lærer mye nytt om Programmering og andre pc relaterte ting
+
+
+## https://www.gjennestadvgs.no dette er linken til gjennestad
